@@ -67,4 +67,3 @@ ProjetAPI/
 
 - [@ImamMagadiyev](https://github.com/ImamMagadiyev)
 - [@Adr43n](https://github.com/Adr43n)
-- [@adrien399](https://github.com/adrien399)
